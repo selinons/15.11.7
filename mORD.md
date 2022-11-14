@@ -22,4 +22,9 @@
 * Вложенные Списки —
 выполняем отступы
 
-* ![привет!](C:\Users\user\Desktop\HOMEWORK\.git\mark.jpg)
+* ![привет](C:\Users\user\Desktop\HOMEWORK\.git\mark.jpg)
+
+
+ghhgjfjgkfjk
+
+rjkfkgkf
